@@ -6,6 +6,8 @@
 - [開荒期法令][4]
 - [資源州法令][5]
 - [匪徒應對][6]
+- [攻城法令][7]
+- [教學法令][8]
 
 [1]:	./intro.md "本書簡介"
 [2]:	./direction/direction.md "各階段方針"
@@ -13,3 +15,5 @@
 [4]:	./rules/starter.md "開荒期法令"
 [5]:	./rules/resource-area.md "資源州法令"
 [6]:	./rules/gangster.md "匪徒應對"
+[7]:	./rules/siege.md "攻城法令"
+[8]:	./rules/tutorials.md "教學法令"
