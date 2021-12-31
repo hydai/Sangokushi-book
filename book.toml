@@ -16,6 +16,11 @@ git-repository-url = "https://github.com/hydai/Sangokushi-book"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/hydai/Sangokushi-book/edit/master/{path}"
 
+[output.html.playground]
+editable = true
+copy-js = true
+line-numbers = false
+
 [output.html.print]
 enable = true
 
