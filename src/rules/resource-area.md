@@ -8,3 +8,27 @@
 4. 遷完城之後，主力才可以開始吃地發育，但同時需要派鋪路隊支援前線鋪路。吃地後請盡快放掉出生州的土地，讓友盟可以發展。\n \n
 5. 未經許可進入資源州吃地或遷城，將要求&緊急撤離&或者&永久下野&。\n \n
 ```
+
+## English Version
+
+### 資源區
+```
+Guan Zhong resources area is now opened! ⬇️Pls scroll down
+
+$Han Zhong Shire and Fu Feng Sire is designated for God Religious Alliance ONLY.$
+
+Please do not go for resources whenever at WAR state!
+
+These two Shires might become core war area, and @Han Zhong Shire@ might be the area for moving our castles. 
+
+At that time, you are protected to ask for lv.6 lv.7 lv.8 one of each land from previous owner for training purposes, excluding Copper lands.  If private communication with the owner is not pleasant, please find management for help.
+
+$Common Shire/Resources area$ (excluding spawning shire, you need to inquire before connecting lands, it is consideredas acceptable if no response in 6 hrs) :  &allow to connect other lands after protective period.&
+
+$Applied to ALL areas :  $
+Main castle designated area is 3 tiles, while Sub castle is 2 tiles all around.  This law still applies.
+
+The protection is for members who occupied the land first but not who arrived there to wait.
+
+Any issues pls contact the land owner and only ask management for assistance if needed, $any violation will leads to be moced away from Alliance for 3 days.$
+```

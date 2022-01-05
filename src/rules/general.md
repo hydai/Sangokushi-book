@@ -30,6 +30,39 @@
 9. 這季霸業名額依然看貢獻值，名額請自行努力參與爭取。
 ```
 
+## English Version
+
+### 土地法
+```
+[Property policy ONLY applies at Spawning area]
+Main castle designated area is 3 tiles, while Sub castle is 2 tiles all around.
+Going for power value and strengthening troops come first, please notify members when connecting lands are needed with proper manner, and help each others at all times.
+(Consider connecting lands are acceptable if there is no response in 6 hours)
+```
+
+### 勢力限制
+```
+{Power Value Limitation Order} $Road blockers see coloured green$
+
+Merits VS Maximum
+Basic line 25000
+Merits 50000 = Maximum 28000 ($30000$)
+Merits 100000 = Maximum 30000 ($35000$)
+Merits 300000 = Maximum 35000 ($Not apply to road blockers$)
+Merits 500000 = No limitation ($Reach this level, no limit)
+
+[When 50 members reach 100000 merits,
+the above merits needed will be doubled]
+
+&To be examined every Monday at 00:00&
+```
+
+### 捐獻
+```
+@Donation to our alliance :  please donate 20000 of EACH resources on weekly basis effective starting from today.@
+```
+
+
 ## 過往版本
 
 ### S1 土地法
