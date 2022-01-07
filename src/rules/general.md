@@ -31,6 +31,28 @@
 9. 這季霸業名額依然看貢獻值，名額請自行努力參與爭取。
 ```
 
+## S6 統一法令英文版 (現行版本)
+
+```
+1. Protected Area
+  1-1. Main castle designated area is 3 tiles, while Sub castle is 2 tiles all around.
+  1-2. Enclosure is NOT allowed. Panelty is 500,000 resource and give up the enclosure tiles.
+2. Connecting Lands
+  2-1. If members want to connect (>= LV.6 lands in Spawning Area) and (>= LV.7 lands in Resource Area), members MUST notify their owners with proper manner. Consider connecting lands are acceptable if there is no response in 3 hours. To avoid conflicts, please snapshot the discussion between members and the owner as proof.
+  2-2. The other resource lands(not listed in 2-1) are allowed to connect after protective period.
+  2-3. The protection is for members who occupied the land first but not who arrived there to wait.
+  2-4. If there is any issue, pls contact the land owner and only ask management for assistance if needed.
+  2-5. Once members need the management for assistance, members should provide the proof including the snapshot. Otherwise, the management will not accdept.
+  2-6. $Any violation will leads to be moved away from Alliance for 3 days.$ If members violate twice, they will be moved away from Alliance forever.
+3. Members should leave Alliance once burning out stamina in Trailer Period. Higher Alliance Level leads Larger Alliance Capacity.
+4. The most critical time for the battle is the first 2-4 weeks, which will determine the direction of the season, so please make sure to prioritize the best 1-2 teams based on your own redness and status, and promise to help the league gain an advantage in the early stage. Rather than wait until the alliance has been defeated or crushed others before coming out to fight, it is just called meaningless military exploits.
+5. Members are NOT allowed to move castle by personal reason. Moving Castle requries a given list, time, and location. $Any violation will leads penaties including 3,000,000 resource, moving away from Alliance for 48 hours, and all lands are not protective.
+6. The Base Power Limitation of members will be 25000, door god will be 28000 as bonus. May be adjusted once engaged enomies.
+7. The War Area has no limitation of connecting lands. HOWEVER, if members don't fight, don't clean the low level lands, don't paving, and only wait for getting high level lands, there is penalty: First time, 500,000 resource + give up the lands first time; Second time, move away from Alliance forever.
+8. It is strictly forbidden to find someone in the rear to increase the contribution value, such as scoring military exploits or turning the ground. Violators will be fined 500,000 for each resource for the first time and will not protect the territory for 48 hours; moved away from Alliance for the second time.
+9. This season's dominance quota still depends on the contribution value, please work hard to participate in the quota.
+```
+
 ## English Version
 
 ### 土地法
